@@ -1,5 +1,3 @@
-import java.net.Socket;
-
 public class centeredaverage {
 	public static void main(String[] args) {
 

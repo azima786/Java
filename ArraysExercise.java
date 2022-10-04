@@ -1,5 +1,3 @@
-import javax.lang.model.element.Element;
-
 public class ArraysExercise {
 	public static void main(String[] args) {
 		//float[] marks = { 45.27f, 67.8f, 63.4f, 99.2f, 100.00f };
